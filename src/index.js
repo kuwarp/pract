@@ -8,6 +8,20 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
+  // <div>
+  //   <h2>hello my coder</h2>
+  //   <ul>
+  //     <li >
+  //       code
+  //     </li>
+  //     <li>
+  //       code again
+  //     </li>
+  //     <li>
+  //       code again and again until you get you points
+  //     </li>
+  //   </ul>
+  // </div>,
   document.getElementById('root')
 );
 
@@ -15,3 +29,4 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+// 

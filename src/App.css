@@ -28,6 +28,23 @@
   color: #61dafb;
 }
 
+h2{
+
+  color: #61dafb;
+}
+
+.wrap{
+  height: "";
+  width: 14rem;
+  position:-webkit-sticky;
+  
+  /* align-content: right; */
+
+  background-color: rgb(33, 102, 102) ;
+  margin: 5rem 30rem;
+  border-radius: 1em;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
